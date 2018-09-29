@@ -1,0 +1,15 @@
+{
+  "name": "atom-discord-presence",
+  "main": "./lib/index.js",
+  "version": "0.0.0",
+  "description": "Shows your Atom activity in Discord",
+  "keywords": ["atom", "discord", "rich presence"],
+  "repository": "https://github.com/matthewdias/atom-discord-presence",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "discord-rpc": "^3.0.0"
+  }
+}
